@@ -1,0 +1,2 @@
+# Teknokent
+Teknoloji haberleri
